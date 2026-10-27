@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sai Nagendra 👋
 
-<!--
-**SaiNagendra007/SaiNagendra007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Python | FastAPI | Next.js
 
-Here are some ideas to get you started:
+I build web applications, AI-powered tools, and automation systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Backend development with Python and FastAPI
+- Frontend development with Next.js, React, and TypeScript
+- Databases, REST APIs, Docker, and AWS
+- Projects: IMS, Lead Management System, and Component Analytics
+
+## Animated ASCII Portrait
+
+![Animated ASCII portrait](./avi-ascii.svg)
+
+## GitHub Contributions
+
+![GitHub contribution heatmap](./contrib-heatmap.svg)
+
+## Developer Info
+
+![Developer information card](./info-card.svg)
+
+---
+
+*Building useful software, one commit at a time.*

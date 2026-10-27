@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="370" viewBox="0 0 490 370" role="img" aria-label="Developer profile terminal card">
+<rect width="100%" height="100%" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M12 0 H478 Q490 0 490 12 V42 H0 V12 Q0 0 12 0Z" fill="#161b22"/>
+<circle cx="18" cy="21" r="5" fill="#ff5f56"/>
+<circle cx="36" cy="21" r="5" fill="#ffbd2e"/>
+<circle cx="54" cy="21" r="5" fill="#27c93f"/>
+<text x="245" y="25" text-anchor="middle" fill="#8b949e" font-family="Consolas,monospace" font-size="12">sai@github ~ $ whoami</text>
+<text x="22" y="70" fill="#7ee787" font-family="Consolas,monospace" font-size="13">$ developer --profile</text>
+<g opacity="0"><text x="24" y="105" fill="#8b949e" font-family="Consolas,monospace" font-size="12">USER      </text><text x="125" y="105" fill="#79c0ff" font-family="Consolas,monospace" font-size="12">SaiNagendra007</text><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="24" y="135" fill="#8b949e" font-family="Consolas,monospace" font-size="12">ROLE      </text><text x="125" y="135" fill="#d2a8ff" font-family="Consolas,monospace" font-size="12">Software Developer</text><animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="24" y="165" fill="#8b949e" font-family="Consolas,monospace" font-size="12">STACK     </text><text x="125" y="165" fill="#7ee787" font-family="Consolas,monospace" font-size="12">Python · FastAPI · Next.js</text><animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="24" y="195" fill="#8b949e" font-family="Consolas,monospace" font-size="12">FRONTEND  </text><text x="125" y="195" fill="#7ee787" font-family="Consolas,monospace" font-size="12">React · TypeScript · Tailwind</text><animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="24" y="225" fill="#8b949e" font-family="Consolas,monospace" font-size="12">BACKEND   </text><text x="125" y="225" fill="#7ee787" font-family="Consolas,monospace" font-size="12">PostgreSQL · REST APIs</text><animate attributeName="opacity" from="0" to="1" begin="0.64s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="24" y="255" fill="#8b949e" font-family="Consolas,monospace" font-size="12">CLOUD     </text><text x="125" y="255" fill="#7ee787" font-family="Consolas,monospace" font-size="12">Docker · AWS · GitHub Actions</text><animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="24" y="285" fill="#8b949e" font-family="Consolas,monospace" font-size="12">PROJECT   </text><text x="125" y="285" fill="#ffa657" font-family="Consolas,monospace" font-size="12">IMS · Lead Management System</text><animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="24" y="315" fill="#8b949e" font-family="Consolas,monospace" font-size="12">PROJECT   </text><text x="125" y="315" fill="#ffa657" font-family="Consolas,monospace" font-size="12">Component Analytics</text><animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.35s" fill="freeze"/></g>
+<path d="M22 350 H468" stroke="#30363d"/>
+<text x="22" y="363" fill="#8b949e" font-family="Consolas,monospace" font-size="9">STATUS: BUILDING • LEARNING • SHIPPING</text>
+</svg>
